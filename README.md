@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @C-ollo
-- 👀 I’m interested in ...Machine Learing-NLP,Computer vision
+- 👀 I’m interested in ...Software Engineering,Machine Learing-NLP,Computer vision
 - 🌱 I’m currently learning ...Deep Learning 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... Collins kimutai-LinkedIn collinskimutai72@gmail.com
 
 <!---
 C-ollo/C-ollo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
