@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @C-ollo
 - 👀 I’m interested in ...Software Engineering,Machine Learing-NLP,Computer vision
-- 🌱 I’m currently learning ...Deep Learning 
+- 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Collins kimutai-LinkedIn collinskimutai72@gmail.com
 
